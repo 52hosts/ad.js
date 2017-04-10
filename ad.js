@@ -35,6 +35,10 @@ function FindProxyForURL(url, host){
 //<ad.js_test>
 "sc.cdce.cf",
 //<youku>
+         
+"qq.com",        
+"im.qq.com",
+"www.qq.com",
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
 "atm.youku.com",
